@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\LB_1\LB_1\bin\Debug\LB_1.exe.config
+C:\Users\student\Desktop\LB_1\LB_1\bin\Debug\LB_1.exe
+C:\Users\student\Desktop\LB_1\LB_1\bin\Debug\LB_1.pdb
+C:\Users\student\Desktop\LB_1\LB_1\obj\Debug\LB_1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\LB_1\LB_1\obj\Debug\LB_1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\LB_1\LB_1\obj\Debug\LB_1.exe
+C:\Users\student\Desktop\LB_1\LB_1\obj\Debug\LB_1.pdb
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\bin\Debug\LB_1.exe.config
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\bin\Debug\LB_1.exe
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\bin\Debug\LB_1.pdb
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\obj\Debug\LB_1.csprojAssemblyReference.cache
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\obj\Debug\LB_1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\obj\Debug\LB_1.exe
+C:\Users\user\Documents\Институт\СиАОД\LB_1\LB_1\obj\Debug\LB_1.pdb
